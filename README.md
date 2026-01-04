@@ -43,6 +43,7 @@ SQL Server: 1433 (or custom)
 PostgreSQL: 5432
 
 🚀 How to Use the Tool (Step-by-Step)
+
 1️⃣ Check Network Connectivity
 
 Run ping from your system to the SQL Server machine:
