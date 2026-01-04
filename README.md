@@ -1,4 +1,5 @@
 MS SQL Server to PostgreSQL Data Migration Tool
+
 📌 Overview
 
 This project provides a Windows-based data migration tool to transfer database tables from MS SQL Server to PostgreSQL. The tool validates network connectivity, checks port accessibility, and allows selective or full table migration with real-time progress updates. 
